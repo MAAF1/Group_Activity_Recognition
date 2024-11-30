@@ -1,2 +1,2 @@
-# Group_Activity_Recognition
+# Group Activity Recognition
 
